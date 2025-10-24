@@ -19,6 +19,5 @@ Steps followed in this assignment:
 8. Created a pull request.
 9. Project URL
 
-You can view the project here: [Tic Tac Toe Project](file:///C:/Users/Keerthana.Sriram/msg-folder/First-Repo/tic.html)
-
+You can view the project here: [Tic Tac Toe Project] file:///C:/Users/Keerthana.Sriram/msg-folder/First-Repo/tic.html
    
