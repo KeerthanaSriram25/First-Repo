@@ -16,5 +16,9 @@ Steps followed in this assignment:
      git add .
      git commit -m "Change bgcolor in tic.css"
      git push origin feature/change-bgcolor.
+8. Created a pull request.
+9. Project URL
+
+You can view the project here: [Tic Tac Toe Project](file:///C:/Users/Keerthana.Sriram/msg-folder/First-Repo/tic.html)
 
    
